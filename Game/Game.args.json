@@ -1,0 +1,21 @@
+{
+  "FileVersion": 2,
+  "Id": "198449db-befc-47d6-9e23-1366e82c976b",
+  "Items": [
+    {
+      "Id": "a25a8ac0-48b7-49d3-bd1c-2be3739e2b68",
+      "Command": "",
+      "ExclusiveMode": true,
+      "Items": [
+        {
+          "Id": "65f70cb3-bf0b-4a9c-9d81-7942396f9d83",
+          "Command": "train"
+        },
+        {
+          "Id": "a22c005e-b333-4c6e-a655-c8552a191f92",
+          "Command": "turnament"
+        }
+      ]
+    }
+  ]
+}
